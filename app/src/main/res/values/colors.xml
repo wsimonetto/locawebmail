@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Canvas -->
+    <color name="canva_three">#253746</color>
+    <color name="canva_one">#253746</color>
+    <color name="canva_two">#253746</color>
+
+    <color name="verde_claro">#76BD22</color>
+    <color name="verde_escuro">#76BD22</color>
+    <color name="azul_claro">#0BA7CF</color>
+    <color name="azul_medio">#04547A</color>
+    <color name="azul_escuro">#194853</color>
+    <color name="cinza">#747575</color>
+    <color name="cinza_claro">#BCBCBC</color>
+
+     <!-- push itens list -->
+    <color name="left1">#D50808</color>
+    <color name="left2">#483B97</color>
+    <color name="right1">#0BA7CF</color>
+    <color name="right2">#F44336</color>
+    <color name="right3">#76BD22</color>
+
+    <color name="amarelo_escuro">#FFC79100</color>
+    <color name="amarelo_claro">#F1CE70</color>
+    <color name="laranja_escuro">#FFD46A00</color>
+    <color name="vermelho_escuro">#FFA40000</color>
+
+</resources>
